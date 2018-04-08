@@ -1,6 +1,6 @@
 This program was a collabaration between Mikael // https://github.com/mikaelkorsholm and i.
 
-Our program is called: 
+Our program is called: Fortune 500 fun
 
 Our program is using the GIPHY API. We began exploring the opportunities of the GIPHY API, i quite fast figured how to extract an image with a search word in the API. We expanded the program by adding a button. The button has written ''Anything'' in it, to give a notion of freedom to search for whatever you want. But in reality it gives the user a search word, that they most likely will use if they can't come up with anything.
 
@@ -10,5 +10,6 @@ We visualised this by secretly adding words to the search word in the program. I
 
 In the future, I would like to investigate further on the possibilities of an API. Both the opportunities for creating new content from an API, and critically investigating what how it affects the society and what kind of data a business can retrieve from these API’s
 
+Update: Because of som security issues with the API, you have to download or copy our code, and create your own live server.
 
 https://rawgit.com/johanneswigh/-miniex/master/Mini-ex8/empty-example/index.html
