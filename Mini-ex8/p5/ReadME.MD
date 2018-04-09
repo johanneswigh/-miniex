@@ -13,3 +13,5 @@ In the future, I would like to investigate further on the possibilities of an AP
 Update: Because of som security issues with the API, you have to download or copy our code, and create your own live server.
 
 https://rawgit.com/johanneswigh/-miniex/master/Mini-ex8/empty-example/index.html
+
+![alt tekst](https://github.com/mikaelkorsholm/Miniexes/blob/master/Mini-ex8/p5/Screenshot.PNG?raw=true)
